@@ -13,7 +13,8 @@
         "loader": "https://ui.impact.com/affluent-partnership-overview/loader.js",
         "devLoader": "https://ui.impact.com/affluent-partnership-overview/loader.js",
         "stagingLoader": "https://ui.impact.com/affluent-partnership-overview/loader.js",
-        "prodLoader": "https://ui.impact.com/affluent-partnership-overview/loader.js"
+        "prodLoader": "https://ui.impact.com/affluent-partnership-overview/loader.js",
+        "navigateEvent": true
       }
     },
     "location": {
