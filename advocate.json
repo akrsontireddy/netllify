@@ -7,13 +7,13 @@
       "ENGLISH": "Advocate Test Url"
     },
     "priority": 10,
-    "url": "/secure/advertiser/saasquatch/fr/abc.ihtml",
+    "url": "/secure/advertiser/advocate/abc.xyz",
     "meta": {
       "staticViewDefinition": {
-        "loader": "https://ui.impact.com/affluent-partnership-overview/loader.js",
-        "devLoader": "https://ui.impact.com/affluent-partnership-overview/loader.js",
-        "stagingLoader": "https://ui.impact.com/affluent-partnership-overview/loader.js",
-        "prodLoader": "https://ui.impact.com/affluent-partnership-overview/loader.js",
+        "loader": "https://ui.impact.com/ssqt/ssqt-portal-loader.js",
+        "devLoader": "https://ui.impact.com/ssqt/ssqt-portal-loader.js",
+        "stagingLoader": "https://ui.impact.com/ssqt/ssqt-portal-loader.js",
+        "prodLoader": "https://ui.impact.com/ssqt/ssqt-portal-loader.js",
         "navigateEvent": true
       }
     },
