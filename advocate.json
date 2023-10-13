@@ -11,7 +11,7 @@
     "meta": {
       "staticViewDefinition": {
         "loader": "https://ui.impact.com/ssqt/ssqt-portal-loader.js",
-        "devLoader": "https://ui.impact.com/ssqt/ssqt-portal-loader.js",
+        "devLoader": "/page/loader.js",
         "stagingLoader": "https://ui.impact.com/ssqt/ssqt-portal-loader.js",
         "prodLoader": "https://ui.impact.com/ssqt/ssqt-portal-loader.js",
         "navigateEvent": true
