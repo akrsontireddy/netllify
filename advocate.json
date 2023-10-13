@@ -7,11 +7,11 @@
       "ENGLISH": "Advocate Test Url"
     },
     "priority": 10,
-    "url": "/secure/advertiser/advocate/abc.xyz",
+    "url": "/secure/advertiser/engage/advocate/p/6529a9b3d19d67323f953b61/t/live/programs",
     "meta": {
       "staticViewDefinition": {
         "loader": "https://ui.impact.com/ssqt/ssqt-portal-loader.js",
-        "devLoader": "/page/loader.js",
+        "devLoader": "https://ui.impact.com/ssqt/ssqt-portal-loader.js",
         "stagingLoader": "https://ui.impact.com/ssqt/ssqt-portal-loader.js",
         "prodLoader": "https://ui.impact.com/ssqt/ssqt-portal-loader.js",
         "navigateEvent": true
