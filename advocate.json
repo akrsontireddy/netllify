@@ -1,12 +1,34 @@
 [
   {
-    "identifier": "affluent_partnershipOverview",
-    "microAppId": "affluent_partnershipOverview",
-    "parentIdentifier": "ANCHOR:MENU_DIS_PARTNERS",
+    "identifier": "ADVOCATE_NAV",
+    "microAppId": "na",
+    "labels": {
+      "ENGLISH": "Advocate Nav"
+    },
+    "priority": 10,
+    "meta": {
+      "description": {"ENGLISH": "Advocate Nav"},
+      "staticViewDefinition": {
+        "loader": "https://ui.impact.com/ssqt/ssqt-portal-loader.js",
+        "devLoader": "https://ui.impact.com/ssqt/ssqt-portal-loader.js",
+        "stagingLoader": "https://ui.impact.com/ssqt/ssqt-portal-loader.js",
+        "prodLoader": "https://ui.impact.com/ssqt/ssqt-portal-loader.js",
+        "navigateEvent": true
+      }
+    },
+    "location": {
+      "area": "NAVIGATION",
+      "classification": "ENGAGE"
+    }
+  },
+  {
+    "identifier": "ADVOCATE_TEST_URL",
+    "microAppId": "na",
+    "parentIdentifier": "ADVOCATE_NAV",
     "labels": {
       "ENGLISH": "Advocate Test Url"
     },
-    "priority": 10,
+    "priority": 11,
     "url": "/secure/advertiser/engage/advocate/p/6529a9b3d19d67323f953b61/t/live/programs",
     "meta": {
       "staticViewDefinition": {
